@@ -28,7 +28,7 @@
   - Export your schedule by daily, weekly and monthly.
   - More fonts and theme colors, you will be sure to find your favorite.
 
-## 
+## Support
 If you enjoy using Planmore and it really helps you plan more, it would be great to leave us a nice review and we’ll be very appreciate to all of your reviews. And if you have any problems or suggestions when using our app or want to leave negative reviews, please contact us at planmorefeedback@outlook.com anytime, as we will respond in a short time to help you solve problems and make better use of our app.
 
 ## Contact Us
